@@ -9,3 +9,9 @@
 <div>
 	<a href="https://standardresume.co/r/noname" target="_blank">Link to view the resume</a>
 </div>
+
+## Projects
+<div>
+	<a href="https://doraemonxxx.github.io/project-list/" target="_blank">Link to view my projects</a>
+	<p>Pístosi to my previous companies. Thank you.</p>
+</div>
