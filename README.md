@@ -1,17 +1,24 @@
 # Portfolio
 
-# Website Down 😞
+This portfolio is build from **my private repository.**
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Coiny&color=1316F7&size=30&lines=Hire+me%3F)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71F1F&size=30&width=870&lines=Something+went+wrong.+Currently+under+maintenance.)](https://git.io/typing-svg)
+------------
 
-## Resume
+<details>
+<summary><b style="color:#1316F7FF; font-size:25px;">Technologies used:</b></summary>
+<br>
+
+ >JavaScript ES6
+ >Webpack 5
+
+</details>
+
+------------
+
+# Projects
 <div>
-	<a href="https://standardresume.co/r/noname" target="_blank">Link to view the resume</a>
-</div>
-
-## Projects
-<div>
-	<a href="https://doraemonxxx.github.io/project-list/" target="_blank">Link to view my projects</a>
-	<p>Pístosi to my previous companies. Thank you.</p>
+  <a href="https://doraemonxxx.github.io/project-list/" target="_blank">Link to view my projects</a>
+  <p>Pístosi to my previous companies. Thank you.</p>
 </div>
