@@ -20,5 +20,5 @@ This portfolio is build from **my private repository.**
 # Projects
 <div>
   <a href="https://doraemonxxx.github.io/project-list/" target="_blank">Link to view my projects</a>
-  <p>Pístosi to my previous companies. Thank you.</p>
+  <p>πιστώσεις to my previous companies. Thank you.</p>
 </div>
