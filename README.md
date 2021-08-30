@@ -9,10 +9,7 @@ This portfolio is build from **my private repository.**
 <details>
 <summary><b style="color:#1316F7FF; font-size:25px;">Technologies used:</b></summary>
 <br>
-
- >JavaScript ES6
- >Webpack 5
-
+ <p style="font-size:15px;">JavaScript ES6 and Webpack 5</p>
 </details>
 
 ------------
